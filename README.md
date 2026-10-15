@@ -92,4 +92,4 @@ Rather than relying on AI to build the entire solution, I used it as a support t
 
 - GitHub - [[@win-boy](https://github.com/win-boy)]
   
-- Frontend Mentor - (https://www.frontendmentor.io/profile/win-boy)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/win-boy)# QR-code
